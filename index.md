@@ -1,3 +1,5 @@
-# Welcome to my blog
+# This is a *blog* from the GitHub Pages course
 
-I'm glad you are here. I plan to talk about ...
+* I am learning to deploy a static website throug [GitHub](https://github.com)
+* Use Jekyll
+* And *le* *website* customization
